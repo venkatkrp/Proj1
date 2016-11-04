@@ -1,3 +1,3 @@
 # Proj1
 
-This is online project to handle all the online trading -Change cc
+This is online project to handle all the online trading
